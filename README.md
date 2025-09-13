@@ -10,18 +10,18 @@
 <br />
 <br />
 
-I'm a final-year B.Tech Computer Science student from Hyderabad, India, graduating in 2026. I'm passionate about building scalable software and intelligent systems that solve real-world problems. My core interest lies at the intersection of **Software Development**, **Artificial Intelligence**, and **Research**.
+I'm a final-year B.Tech Computer Science student from Bhubaneswar, India, graduating in 2026. I'm passionate about building scalable software and intelligent systems that solve real-world problems. My core interest lies at the intersection of **Software Development**, **Artificial Intelligence**, and **Research**.
 
 ![Profile views](https://gpvc.arturio.dev/AdityaBhandari3921)
 
 ---
 
-* 🔭 **I’m currently working on:** My final year major project, which involves **[e.g., fine-tuning a Large Language Model for code generation in specific low-resource languages]**.
+* 🔭 **I’m currently working on:** My final year major project, which involves **fine-tuning a Large Language Model for code generation in specific low-resource languages**.
 * 🌱 **I’m currently learning:** MLOps practices using Docker and Kubernetes to understand how to deploy and scale machine learning models efficiently in production.
 * 👯 **I’m looking to collaborate on:** Open-source projects related to AI/ML libraries, developer tools, or research projects in Natural Language Processing.
 * 🤔 **I’m looking for help with:** Connecting with industry mentors who can provide guidance on building a career in AI-focused software development roles.
 * 💬 **Ask me about:** Python, Java, Deep Learning with TensorFlow/PyTorch, Data Structures & Algorithms, or anything related to AI ethics.
-* 📫 **How to reach me:** You can email me at **[your.professional.email@gmail.com]** or connect with me on [LinkedIn](https://www.linkedin.com/in/[YourLinkedInUsername]).
+* 📫 **How to reach me:** You can email me at **22053921@kiit.ac.in** or connect with me on [LinkedIn]((https://www.linkedin.com/in/aditya-bhandari-593750200/)).
 * 😄 **Pronouns:** He/Him
 * ⚡ **Fun fact:** When I'm not coding, you can find me on a quest for the best biryani in Hyderabad!
 
